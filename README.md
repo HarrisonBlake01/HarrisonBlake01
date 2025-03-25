@@ -1,9 +1,48 @@
-I am Harrison Olvera, a current Software Development student at DeVry University.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Harrison Olvera
 
-<!---
-HarrisonBlake01/HarrisonBlake01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Dallas, TX**  
+📞 (214) 301-9529  
+✉️ harrison.olvera@sbcglobal.net  
+[LinkedIn](https://linkedin.com/in/harrison-o-499707a3)
+
+---
+
+## 🎯 Objective
+
+Aspiring Software Developer currently pursuing a B.S. in Software Development with a strong foundation in programming, troubleshooting, and system deployment. Eager to apply technical skills and hands-on experience in a collaborative internship environment.
+
+---
+
+## 💻 Technical Skills
+
+- **Languages:** Python, .NET, JavaScript (in progress)  
+- **Tools/Platforms:** Linux, Git/GitHub, Visual Studio, Windows OS, ServiceNow  
+- **Concepts:** Web Development, Cybersecurity, ITIL, Networking  
+- **Software:** Microsoft 365, Adobe Suite  
+
+---
+
+## 🎓 Education
+
+**DeVry University**  
+_B.S. in Software Development_ — GPA: 4.0  
+**January 2023 – Present** (Expected Graduation: March 2026)  
+
+**Relevant Coursework:**  
+- Introduction to Programming  
+- Intro to Information Science & Systems  
+- Cloud Computing  
+- Data Structures  
+- Algorithms  
+- Operating Systems  
+- Software Engineering  
+- Software Design
+
+---
+
+## 🛠️ Projects & Continued Learning
+
+- **Coursework:** Web Development and Software Engineering  
+- **Learning In Progress:** React, JavaScript, Python  
+
+
