@@ -25,8 +25,7 @@ Aspiring Software Developer currently pursuing a B.S. in Software Development wi
 ## 🎓 Education
 
 **DeVry University**  
-_B.S. in Software Development_ — GPA: 4.0  
-**January 2023 – Present** (Expected Graduation: March 2026)  
+_B.S. in Software Development_ — GPA: 4.0   
 
 **Relevant Coursework:**  
 - Introduction to Programming  
